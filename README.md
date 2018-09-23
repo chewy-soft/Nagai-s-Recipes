@@ -19,6 +19,7 @@
 * 万能ごまだれ
 * チャーシュー
 * 冷やし中華のたれ
+* 牛肉のオイスターソース炒め 
 
 ### License
 [Chewy Soft](http://www.chewy-soft.cn/)
