@@ -25,6 +25,7 @@
 * 餃子
 * 鶏めし
 * インド本格的ナン
+* 超高級そばつゆ
 
 ### License
 [Chewy Soft](http://www.chewy-soft.cn/)
